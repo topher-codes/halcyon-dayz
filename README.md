@@ -1,4 +1,4 @@
-- 🥷 Hi, I’m Chris. I'm a dude from Portland, OR that would like to tear this city down and rebuild it.  Draw a line from one to the other and I'm in the middle somewhere. I like supporting websites that donate `time || energy || money` to `reforestation projects || wildlife preservation`. I am often caught thinking, writing, or talking about the problems that exist in the natural world. I'd like to think we can spend more time solving those problems than the ones we create in cyberspace. My hope is that I can lend a hand.
+- 🥷 Hi, I’m Chris. I'm a dude from Portland, OR that would like to tear this city down and rebuild it. I like supporting websites that donate `time || energy || money` to `reforestation projects || wildlife preservation`. I am often caught thinking, writing, or talking about the problems that exist in the natural world. I'd like to think we can spend more time solving those problems than the ones we create in cyberspace. My hope is that I can lend a hand.
 - 👀 I’m interested in ... C/C++ and systems architecture / network architecture
 - 🌱 I’m currently learning ...
 - -Advanced JavaScript
